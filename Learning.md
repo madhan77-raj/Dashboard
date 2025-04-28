@@ -18,17 +18,17 @@ Explore the dashboard
 ###  Live Video Dashboard 
    <video controls src="Screen Recording 2025-04-28 231230.mp4" title="Title" autoplay muted></video>
 - ### Home Page
-   ![alt text](<Dashboard- Home Page.png>) 
+   ![alt text](</Dashboarad Image/Dashboard- Home Page.png>) 
 - ### Finance View
-   ![alt text](<Dashboard- Finance View.png>) 
+   ![alt text](</Dashboarad Image/Dashboard- Finance View.png>) 
 - ### Sales View
-   ![alt text](<Dashboard- Sales View.png>) 
+   ![alt text](</Dashboarad Image/Dashboard- Sales View.png>) 
 - ### Marketing View
-   ![alt text](<Dashboard- Marketing View.png>) 
+   ![alt text](</Dashboarad Image/Dashboard- Marketing View.png>) 
 - ### Supply Chain View
-   ![alt text](<Dashboard- Supply chain view.png>)
+   ![alt text](</Dashboarad Image/Dashboard- Supply chain view.png>)
 - ### Executive View
-   ![alt text](<Dashboard- Executive View.png>) 
+   ![alt text](</Dashboarad Image/Dashboard- Executive View.png>) 
 
 
 ## Key Achievements
