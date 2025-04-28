@@ -40,13 +40,6 @@ Explore the dashboard
 2. Open the project in Power BI Desktop.
 3. Explore the data model and visualizations.
 
-## Data Sources
-The dashboard seamlessly collects and utilizes data from two primary sources:
-
-1. **Excel/CSV Files:** Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/Excel_CSV_Files).
-   
-2. **MySQL Database:** Facts and Dimensions for all departments are retrieved from a [MySQL database](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/MySQL_Database).
-
 ### Prerequisites
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - [DAX Studio](https://daxstudio.org/)
