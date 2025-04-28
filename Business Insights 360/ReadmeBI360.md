@@ -23,11 +23,11 @@ Explore the dashboard
 - ### Sales View
    ![alt text](</Business Insights 360 - Dashboarad Image/Dashboard- Sales View.png>) 
 - ### Marketing View
-   ![alt text](</Dashboarad Image/Dashboard- Marketing View.png>) 
+   ![alt text](</Business Insights 360 - Dashboarad Image/Dashboard- Marketing View.png>) 
 - ### Supply Chain View
-   ![alt text](</Dashboarad Image/Dashboard- Supply chain view.png>)
+   ![alt text](</Business Insights 360 - Dashboarad Image/Dashboard- Supply chain view.png>)
 - ### Executive View
-   ![alt text](</Dashboarad Image/Dashboard- Executive View.png>) 
+   ![alt text](</Business Insights 360 - Dashboarad Image/Dashboard- Executive View.png>) 
 
 
 ## Key Achievements
