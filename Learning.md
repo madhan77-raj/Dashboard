@@ -15,8 +15,6 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 ## Live Dashboard
 Explore the dashboard  
 ---
-###  Live Video Dashboard 
-   <video controls src="Screen Recording 2025-04-28 231230.mp4" title="Title" autoplay muted></video>
 - ### Home Page
    ![alt text](</Dashboarad Image/Dashboard- Home Page.png>) 
 - ### Finance View
